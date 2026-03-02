@@ -1,4 +1,4 @@
-## 🧠 Simple Artificial Neural Network (ANN) – Dot Position Learner
+# 🧠 Simple Artificial Neural Network (ANN) – Dot Position Learner
 
 A small artificial neural network project where colored dots learn to move toward predefined target positions based on their color.
 
@@ -6,7 +6,7 @@ This project was created to better understand the fundamentals of neural network
 
 ---
 
-## 📌 Overview
+## **📌 Overview **
 
 The neural network receives:
 
